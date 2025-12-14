@@ -1,5 +1,8 @@
 # Implementation Summary: LaTeX to OMML Conversion
 
+Original library: https://github.com/jgm/texmath
+AI Generated
+
 ## Overview
 Successfully implemented a complete TypeScript/JavaScript port of the Haskell texmath library's LaTeX to OMML conversion functionality. The implementation covers all major sections for converting mathematical LaTeX expressions to Office Math Markup Language (OMML) XML format.
 

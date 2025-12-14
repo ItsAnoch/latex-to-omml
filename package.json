@@ -1,0 +1,17 @@
+{
+  "name": "textmath-node",
+  "module": "src/index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "scripts": {
+    "dev": "bun run src/index.ts",
+    "test": "bun run src/test.ts",
+    "examples": "bun run src/examples.ts"
+  }
+}
